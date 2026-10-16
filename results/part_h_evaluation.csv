@@ -1,0 +1,4 @@
+noise_probability,trained_mean_reward,trained_success_rate,original_mean_reward,original_success_rate
+0.00,0.370,0.37,0.370,0.37
+0.10,0.210,0.21,0.140,0.14
+0.25,0.080,0.08,0.070,0.07

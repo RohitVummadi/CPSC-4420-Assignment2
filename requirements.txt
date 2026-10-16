@@ -1,0 +1,6 @@
+gymnasium[toy-text]==1.4.0
+numpy==2.5.2
+matplotlib==3.11.2
+Pillow==12.3.0
+jupyterlab==4.6.4
+nbconvert==7.17.1

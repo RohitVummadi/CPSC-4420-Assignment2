@@ -1,0 +1,32 @@
+[
+  {
+    "seed": 10000,
+    "steps": 46,
+    "reward": 1,
+    "outcome": "Goal reached"
+  },
+  {
+    "seed": 10001,
+    "steps": 88,
+    "reward": 1,
+    "outcome": "Goal reached"
+  },
+  {
+    "seed": 10002,
+    "steps": 100,
+    "reward": 0,
+    "outcome": "Step limit reached"
+  },
+  {
+    "seed": 10003,
+    "steps": 100,
+    "reward": 0,
+    "outcome": "Step limit reached"
+  },
+  {
+    "seed": 10004,
+    "steps": 75,
+    "reward": 1,
+    "outcome": "Goal reached"
+  }
+]

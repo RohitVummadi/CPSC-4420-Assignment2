@@ -1,0 +1,3 @@
+agent,mean_reward,success_rate,mean_steps_on_success
+Baseline,0.370,0.37,63.2
+Selected agent,0.230,0.23,69.3

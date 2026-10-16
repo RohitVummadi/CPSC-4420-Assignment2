@@ -1,0 +1,4 @@
+alpha,first_5000_mean_reward,last_1000_mean_reward
+0.1,0.144,0.398
+0.5,0.089,0.278
+0.9,0.028,0.124

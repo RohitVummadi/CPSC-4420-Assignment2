@@ -1,0 +1,4 @@
+epsilon_decay,first_5000_mean_reward,last_1000_mean_reward,final_epsilon
+0.99,0.078,0.459,0.050
+0.9995,0.133,0.416,0.050
+0.9999,0.009,0.313,0.135
